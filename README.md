@@ -12,8 +12,8 @@ A simple, interactive console program written in **Rust** that calculates the fa
 
 ---
 
-## License
+## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details. Free to use, modify, and distribute as needed.
 
 
