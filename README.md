@@ -9,3 +9,11 @@ A simple, interactive console program written in **Rust** that calculates the fa
 * **Robust Input Handling:** Gracefully handles non-numeric or invalid inputs.
 * **Clean Exit:** The program can be cleanly terminated by typing `exit`.
 * **Iterative Calculation:** Uses an iterative approach with `checked_mul()` for safer arithmetic operations.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+
